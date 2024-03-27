@@ -1,0 +1,7 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+
+Sitemap: http://bcslot88.3dayfunk.com/.xml
